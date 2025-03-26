@@ -1,0 +1,15 @@
+Ansible is a open-source It engine that automates application deployment,cloud provisioning, intra service orchestration, and other IT tools.
+
+Ansible pushes modules to the clients and these modules are locally executed on the client side and the output is pushed back to the ansible server.
+
+Ansible is designed for multitier deployment. ansible is agentless which means it workes by connecting nodes through SSH.
+
+In ansible, the management nodes is a controlling node that controls the entire execution of the playbook.
+
+The inventry file provides the list of hosts where ansible modules need to be run.
+The management nodes makes an SSH connection and executes the small modules on the host's machine and installs the software.
+These modules are removed once the task is completed.
+
+
+
+ 
