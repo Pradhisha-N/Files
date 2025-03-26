@@ -1,0 +1,8 @@
+JFrog artifactary is a universal devops solution.that manages and automates artifacts and binaries from start to finish during the application delivery process.it gives u the option to choose from 25+ software build packages, all major ci/cd systems and other existing devops tools.it is a single solution for housing and managing all software artifacts, aiml models, packages , files and releases used in software supply chain.
+
+
+MSBiuld:
+
+Msbuilt is build tool that helps automate the process of creating a software product including compiling the source code, packaging ,testing , deployment and creating documentations.
+with msbuild it possible to build visual studio projects and solutions without the visual studio IDE installed.
+A built tool automates the transformation of source code into an executable and deployable program 
